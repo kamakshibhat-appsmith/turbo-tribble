@@ -7,7 +7,7 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "myFun1new111": "[]",
+      "myFun1new111u": "[]",
       "myFun2": "[]"
     },
     "moduleInputs": {
@@ -15,7 +15,7 @@
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
         "id": "paegiuixft",
-        "label": "myFun1new111",
+        "label": "myFun1new111u",
         "propertyName": "inputs.myFun1"
       },
       "qgowfrjgeh": {
@@ -28,6 +28,6 @@
     },
     "name": "JSModule11",
     "pageId": "Page1",
-    "version": "0.0.29"
+    "version": "0.0.37"
   }
 }
